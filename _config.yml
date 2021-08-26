@@ -18,27 +18,27 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Odin - A Jekyll Knowledge Base Theme
-description: Odin is a simple to setup and use Jekyll theme for help desks and knowledge bases. Hosts for free on Github Pages!
-baseurl: /odin # the subpath of your site, e.g. /support
-url: https://teaguns.github.io # the base hostname AND PROTOCOL for your site, e.g. http://example.com
+title: 一个用Github搭建的个人Blog
+description: 这个Blog用来展示个人的Api文档和随手笔记。
+baseurl: # the subpath of your site, e.g. /support
+url: https://chen-xi-g.github.io/ # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
 
-content_type: Knowledge Base #Define whether this is a knowledge base, help center, or something else
+content_type: 忞鹿 Blog #Define whether this is a knowledge base, help center, or something else
 use_authors: true #Set this to false to disable showing post authors
 
-brand_logo: logo.png
-brand_name: Odin
-header: How can we help you?
-subheader: Support and documentation for Odin
+brand_logo: https://blog.minlukj.com/wp-content/uploads/2020/08/组-27144.png
+brand_name: 忞鹿
+header: 感谢你的到来，我将在这里分享知识?
+subheader: 这里仅用来展示API文档和随手笔记
 
 meta_image: odin-meta.png
 
 # Social Links
-twitter_username: TheTeaGuns
+twitter_username: 忞鹿
 facebook_page:
-github_username: TeaGuns
-email: m@credd.in
+github_username: ChenXi
+email: a912816369@gmail.com
 linkedin_page:
 instagram_username: 
 
@@ -47,25 +47,25 @@ instagram_username:
 nav_item_one: Github
 nav_item_one_link: https://github.com/TeaGuns/odin
 
-nav_item_two: Twitter
-nav_item_two_link: https://twitter.com/TheTeaGuns
+nav_item_two: Blog
+nav_item_two_link: http://me.minlukj.com/
 
 nav_item_three: #
 nav_item_three_link: #
 
-nav_button: Return to Odin Home
-nav_button_link: https://teaguns.github.io/odin/
+nav_button: 返回到主页
+nav_button_link: https://chen-xi-g.github.io/
 
 # More Help
-help_one_title: Odin Bugs
-help_one_content: If you find any bugs or problems with this theme, please open an issue over on Github.
+help_one_title: 忞鹿代码库
+help_one_content: 这里有本人所有的开源代码仓库，可以帮助更高效的开发，欢迎Start.
 help_one_button: Github
 help_one_link: https://github.com/TeaGuns/odin/issues
 
 help_two_title: Twitter
 help_two_content: Feel free to tweet at me if you have suggestions for Odin. Or if you just want to say hi.
 help_two_button: Twitter
-help_two_link: https://twitter.com/theteaguns
+help_two_link: https://github.com/Chen-Xi-g
 
 # Build settings
 theme: minima
