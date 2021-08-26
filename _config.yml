@@ -27,7 +27,7 @@ permalink: /:categories/:title
 content_type: 忞鹿 Blog #Define whether this is a knowledge base, help center, or something else
 use_authors: true #Set this to false to disable showing post authors
 
-brand_logo: https://blog.minlukj.com/wp-content/uploads/2020/08/组-27144.png
+brand_logo: logo.png
 brand_name: 忞鹿
 header: 感谢你的到来，我将在这里分享知识?
 subheader: 这里仅用来展示API文档和随手笔记
