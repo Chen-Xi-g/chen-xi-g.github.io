@@ -24,7 +24,8 @@ baseurl: # the subpath of your site, e.g. /support
 url: https://chen-xi-g.github.io/ # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
 
-content_type: 忞鹿 Blog #Define whether this is a knowledge base, help center, or something else
+content_type: 忞鹿 #Define whether this is a knowledge base, help center, or something else
+content_type2: Blog
 use_authors: true #Set this to false to disable showing post authors
 
 brand_logo: logo.png
@@ -35,9 +36,9 @@ subheader: 这里仅用来展示API文档和随手笔记
 meta_image: odin-meta.png
 
 # Social Links
-twitter_username: 忞鹿
+twitter_username:
 facebook_page:
-github_username: ChenXi
+github_username: Chen-Xi-g
 email: a912816369@gmail.com
 linkedin_page:
 instagram_username: 
@@ -58,14 +59,14 @@ nav_button_link: https://chen-xi-g.github.io/
 
 # More Help
 help_one_title: 忞鹿代码库
-help_one_content: 这里有本人所有的开源代码仓库，可以帮助更高效的开发，欢迎Start.
+help_one_content: 这里有本人所有的开源代码仓库，可以帮助更高效的开发，欢迎Start。
 help_one_button: Github
-help_one_link: https://github.com/TeaGuns/odin/issues
+help_one_link: https://github.com/Chen-Xi-g
 
-help_two_title: Twitter
-help_two_content: Feel free to tweet at me if you have suggestions for Odin. Or if you just want to say hi.
-help_two_button: Twitter
-help_two_link: https://github.com/Chen-Xi-g
+help_two_title: 忞鹿个人博客
+help_two_content: 这里是本人自己搭建的Blog，里面有大量的文章分享，也有个人介绍，欢迎你来观看。
+help_two_button: 忞鹿小站
+help_two_link: http://me.minlukj.com/
 
 # Build settings
 theme: minima
